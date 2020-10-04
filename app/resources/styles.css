@@ -1,0 +1,49 @@
+form#costForm{
+    width: 100% !important;
+}
+
+label span {
+  font-size: 1rem;
+}
+
+label.error {
+    color: red;
+    font-size: 1rem;
+    display: block;
+    margin-top: 5px;
+}
+
+input.error, textarea.error {
+    border: 1px dashed red;
+    font-weight: 300;
+    color: red;
+}
+div.results-div{
+	margin: 10px;
+	border: 1px solid;0
+}
+div.results-div table{
+
+	border-bottom: 1px solid;
+}
+
+table.results-table tbody tr th, table.results-table tbody tr td{
+    width: 50%;
+    font-size: .875rem;
+}
+
+.text-center{
+    width: 100%;
+}
+
+.text-center h4{
+    margin: 5px;
+}
+
+#results{
+    width: 100%
+}
+
+.input-container{
+    margin-top: .5rem ;
+}
