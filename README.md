@@ -1,9 +1,12 @@
 # Forecaster
 
 Forecaster is an app which computes RAM and Storage cost based on the below parameters
--Number of Studies
--Growth Percentage per Month
--Number of months to be forecasted
+
+```
+* Number of Studies
+* Growth Percentage per Month
+* Number of months to be forecasted
+```
 
 ## Installation
 
