@@ -11,17 +11,14 @@ Clone this repo using HTTPS or SSH to your local machine
 
 UBUNTU
 ```bash
-cd /var/www/html 
-
-SSH
-```bash
-git clone git@github.com:neilbardos/forecaster.git 
+cd /var/www/html
+git clone git@github.com:neilbardos/forecaster.git <directory_name>
 ```
 
 ## Usage
 
 ```localhost
-http://localhost/forecaster/
+http://localhost/<directory_name>/
 ```
 
 ## END
