@@ -9,7 +9,11 @@ Forecaster is an app which computes RAM and Storage cost based on the below para
 
 Clone this repo using HTTPS or SSH to your local machine
 
-UBUNTU
+Ubuntu
+- Open Terminal
+
+Windows
+- Open Git bash
 ```bash
 cd /var/www/html
 git clone git@github.com:neilbardos/forecaster.git <directory_name>
